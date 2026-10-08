@@ -114,12 +114,3 @@ source notebook settings: 40,000/10,000 fixed train/validation split (seed
 rate 0.001, weight decay 0.01, and 10,000 epochs.  The original notebook uses
 an external early-stopping helper that is intentionally not included here; the
 public script reports validation and test accuracy every epoch instead.
-
-## Before public upload
-
-1. Add the final repository license and citation information.
-2. Confirm that release of `Chip.py` is approved by the device provider.
-3. If task-specific model graphs are to be released, add cleaned adapters under
-   `src/photonic_training/models/` only after a separate IP review.
-4. Keep datasets, checkpoints, raw experimental outputs and local file paths
-   outside the public repository.
