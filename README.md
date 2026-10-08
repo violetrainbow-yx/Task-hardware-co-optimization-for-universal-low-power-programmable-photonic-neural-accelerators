@@ -1,4 +1,4 @@
-# Public code for voltage-constrained photonic training
+# Code for Paper"Task-hardware co-optimization for universal low-power programmable photonic neural accelerators"
 
 This compact release documents the baseline and task-hardware co-optimization
 protocol used in the manuscript.  It is deliberately restricted to the public
