@@ -1,4 +1,4 @@
-# Code for Paper"Task-hardware co-optimization for universal low-power programmable photonic neural accelerators"
+# Code for Paper "Task-hardware co-optimization for universal low-power programmable photonic neural accelerators"
 
 This compact release documents the baseline and task-hardware co-optimization
 protocol used in the manuscript.  It is deliberately restricted to the public
@@ -114,3 +114,4 @@ source notebook settings: 40,000/10,000 fixed train/validation split (seed
 rate 0.001, weight decay 0.01, and 10,000 epochs.  The original notebook uses
 an external early-stopping helper that is intentionally not included here; the
 public script reports validation and test accuracy every epoch instead.
+
