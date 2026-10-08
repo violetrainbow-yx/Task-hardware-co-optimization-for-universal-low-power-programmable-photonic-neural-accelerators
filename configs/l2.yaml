@@ -1,4 +1,0 @@
-regularization:
-  l1: 0.0
-  l2_weight_decay: 1.0e-2
-  sm: 0.0
